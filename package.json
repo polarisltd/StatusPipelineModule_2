@@ -14,8 +14,8 @@
     "@angular/router": "6.0.7",
     "core-js": "2.5.7",
     "rxjs": "6.2.1",
-    "rxjs-compat": "6.2.1",
-    "zone.js": "0.8.26"
+     "rxjs-compat": "6.2.1",
+     "zone.js": "0.8.26"
   },
   "scripts": {
     "ng": "ng",
